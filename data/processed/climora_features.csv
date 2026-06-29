@@ -1,0 +1,1 @@
+Date,City,Latitude,Longitude,MaxTemp,MinTemp,Rainfall,WindSpeed,Year,Month,Day,DayOfWeek,DayOfYear,Season,Rainfall_Lag1,Rainfall_Lag7,MaxTemp_Lag1,MaxTemp_Lag7,Rainfall_Rolling7,Temp_Rolling7
